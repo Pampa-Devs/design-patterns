@@ -6,5 +6,5 @@ Este repositório tem como objetivo compartilhar exemplos práticos e tutoriais 
 Aqui iremos apresentar os padrões mais utilizados bem como sua implementação.
 
 Padrão | Nível Utilização | Autores
-------- | ------- | ------- | -------
+------- | ------- | -------
 [Factory Pattern](https://github.com/Pampa-Devs/design-patterns-factory) | Alto | [felipe-allmeida](https://github.com/felipe-allmeida), [jabreuar](https://github.com/jabreuar)
