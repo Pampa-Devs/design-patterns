@@ -1,8 +1,3 @@
-<h1 align="center">
-  <img src="designpatterns.png" alt="Concepts" width="450px" />
-</h1>
-
-
 # Design Patterns
 Serie de exemplos sobre design patterns. 
 
