@@ -8,3 +8,4 @@ Aqui iremos apresentar os padrões mais utilizados bem como sua implementação.
 Padrão| Tipo | Nível Utilização | Autores
 ------- | ------- | ------- | -------
 [Factory Pattern](https://github.com/Pampa-Devs/design-patterns-factory) | Criacional | Alto | [felipe-allmeida](https://github.com/felipe-allmeida), [jabreuar](https://github.com/jabreuar)
+[Singleton Pattern](https://github.com/Pampa-Devs/design-patterns-singleton) | Criacional | Alto | [felipe-allmeida](https://github.com/felipe-allmeida)
