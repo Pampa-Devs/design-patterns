@@ -9,3 +9,5 @@ Padrão| Tipo | Nível Utilização | Autores
 ------- | ------- | ------- | -------
 [Factory](https://github.com/Pampa-Devs/design-patterns-factory) | Criacional | Alto | [felipe-allmeida](https://github.com/felipe-allmeida), [jabreuar](https://github.com/jabreuar)
 [Singleton](https://github.com/Pampa-Devs/design-patterns-singleton) | Criacional | Alto | [felipe-allmeida](https://github.com/felipe-allmeida)
+[Builder](https://github.com/Pampa-Devs/design-patterns-builder) | Criacional | Alto | [jabreuar](https://github.com/jabreuar)
+
