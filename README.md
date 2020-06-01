@@ -11,4 +11,4 @@ Padrão| Tipo | Nível Utilização | Autores
 [Builder](https://github.com/Pampa-Devs/design-patterns-builder) | Criacional | Médio-Baixo | [jabreuar](https://github.com/jabreuar)
 [Singleton](https://github.com/Pampa-Devs/design-patterns-singleton) | Criacional | Médio-Alto | [felipe-allmeida](https://github.com/felipe-allmeida)
 [Prototype](https://github.com/Pampa-Devs/design-patterns-prototype) | Criacional | Alto | [jabreuar](https://github.com/jabreuar)
-[Mediator](https://github.com/Pampa-Devs/design-patterns-mediator) | Comportamental | Médio-Baixo | (https://github.com/felipe-allmeida)
+[Mediator](https://github.com/Pampa-Devs/design-patterns-mediator) | Comportamental | Médio-Baixo | [felipe-allmeida](https://github.com/felipe-allmeida)
